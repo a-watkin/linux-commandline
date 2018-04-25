@@ -1,3 +1,5 @@
+Backup of my learning the command line basics clone.
+
 # commandlinebasics
 Exercise Files for Learn the Linux Command Line: The Basics at Lynda.com
 
